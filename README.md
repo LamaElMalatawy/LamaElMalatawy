@@ -1,4 +1,4 @@
-## Hey there , I'm Lama El Malatawy <img src="https://media.giphy.com/media/5A4gz2QktOjs3nYq1U/giphy.gif" width="50">
+## Hey there , I'm Lama El Malatawy <img src="https://media.giphy.com/media/3o7bu1nVSxNQUWMAZa/giphy.gif" width="50">
 
 
 
