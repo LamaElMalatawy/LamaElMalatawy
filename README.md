@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lama-e-828665160)
 [![Behance Badge](https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/lamaelmalatawyy)
 
-### A senior student in Faculty of Computer and Information Sciences, passionate about learning and trying new fields
+### A full stack developer, passionate about learning and trying new fields
 
 - 🎓 2023 graduate from Computer Science department at Ain Shams University
 - 💼 Currently working as a full stack intern @ Giza Systems
