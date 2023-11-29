@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ### A senior student in Faculty of Computer and Information Sciences, passionate about learning and trying new fields
 
 - 🎓 2023 graduate from Computer Science department at Ain Shams University
-- 🔭 Currently working on <a href="https://github.com/LamaElMalatawy/Chartlytics"> Chartlytics </a> (Graduation Project)
-- 💼 President of <a href = "https://web.facebook.com/ASUTC"> MSP Tech Club </a> Ain Shams University
+- 💼 Currently working as a full stack intern @ Giza Systems
 - 👯 Looking to start contributing to open source projects
 
 
