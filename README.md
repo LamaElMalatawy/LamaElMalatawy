@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### A full stack developer, passionate about learning and trying new fields
 
 - 🎓 2023 graduate from Computer Science department at Ain Shams University
-- 💼 Currently working as a full stack intern @ Giza Systems
+- 💼 Currently working as a software developer @ Giza Systems
 - 👯 Looking to start contributing to open source projects
 
 
